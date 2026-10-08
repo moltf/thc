@@ -1,0 +1,5 @@
+thc
+*.exe
+*.log
+results.*
+.tmp/
